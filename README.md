@@ -1,6 +1,6 @@
-\#bootcamp
+bootcamp
 
 ## sub-heading
-- welcome to bootcamp.
-===
 
+* welcome to bootcamp.
+  ===
